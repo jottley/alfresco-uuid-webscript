@@ -1,0 +1,7 @@
+<webscript>
+    <shortname>Generate UUID</shortname>
+    <description>Returns a UUID</description>
+    <url>/util/uuid</url>
+    <authentication>none</authentication>
+    <format default="xml">argument</format>
+</webscript>
