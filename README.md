@@ -1,4 +1,4 @@
-==This project is EOL as the depenedent Alfresco WCM project is also EOL==
+**This project is EOL as the depenedent Alfresco WCM project is also EOL**
 
 The UUID Web Script can be used to generate a unique identifier that can be
 included in your WCM form generated content.
