@@ -49,8 +49,6 @@ public class UUIDWebScript extends DeclarativeWebScript {
 
 		UUID uuid = UUID.randomUUID();
 
-		System.out.println("UUID: " + uuid.toString());
-
 		model.put("uuid", uuid.toString());
 
 		return model;
